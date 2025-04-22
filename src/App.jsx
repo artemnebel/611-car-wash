@@ -76,7 +76,7 @@ export default function App() {
         <div className="absolute inset-0 z-0">
           <img  
             className="w-full h-full object-cover"
-            alt="Luxury car being detailed" src="corvette.png"/>
+            alt="Luxury car being detailed" src="/corvette.png"/>
           <div className="absolute inset-0 bg-gradient-to-r from-black/80 to-black/40" />
         </div>
         
